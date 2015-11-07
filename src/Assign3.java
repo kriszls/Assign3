@@ -36,7 +36,7 @@ public class Assign3 extends JApplet
 		
 		}
 
-	// shows results of radius, diamter, circumference, area in a Java applet
+	// shows results of radius, diameter, circumference, area in a Java applet
 	public void paint ( Graphics g )
 	{
 		super.paint ( g ); // call superclass version of method paint
